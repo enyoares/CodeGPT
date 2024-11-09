@@ -62,7 +62,7 @@ project_root/
 
 4. **필요 패키지 설치**
    ```bash
-   pip install -r requirements.txt
+   pip install --upgrade llama-index fastapi uvicorn langchain openai
    ```
 
 5. **OpenAI API 키 설정**
