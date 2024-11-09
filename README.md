@@ -1,7 +1,7 @@
 
-# CodeChat 🎉
+# CodeGPT 🎉
 
-CodeChat은 ChatGPT와 유사한 UI로 코드를 질문하고, 답변을 받는 웹 기반 애플리케이션입니다. LlamaIndex와 ChatGPT API를 연동하여 사용자가 코드베이스에 대한 질의를 할 수 있도록 구성되었습니다.
+CodeGPT은 ChatGPT와 유사한 UI로 코드를 질문하고, 답변을 받는 웹 기반 애플리케이션입니다. LlamaIndex와 ChatGPT API를 연동하여 사용자가 코드베이스에 대한 질의를 할 수 있도록 구성되었습니다.
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.85.0-green)
